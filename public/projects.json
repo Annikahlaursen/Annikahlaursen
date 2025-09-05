@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Project Radar - Fællesskabsplatform",
+    "year": 2025,
+    "description": "Formålet med Project Radar er at skabe en fællesskabsplatform, hvor brugere kan dele og opdage projekter inden for forskellige interesseområder. Platformen giver brugerne mulighed for at oprette profiler, følge andre brugere, og deltage i diskussioner om projekter. Brugere kan også stemme på projekter, kommentere, og dele deres egne projekter med fællesskabet. Project Radar sigter mod at fremme samarbejde og innovation ved at forbinde mennesker med lignende interesser og passioner.",
+    "tags": ["React", "Projects", "Frontend"],
+    "image": "./src/assets/img/project.radar.png",
+    "links": [
+      { "url": "https://annikahlaursen.github.io", "text": "React Portfolio" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Project Gravel - Interessesbaseret Social Netværk",
+    "year": 2025,
+    "description": "Formålet ved denne app er at skabe et socialt netværk, hvor brugere kan forbinde sig med andre baseret på fælles interesser og hobbyer. Appen giver brugerne mulighed for at oprette profiler, deltage i grupper, og dele indhold relateret til deres interesser. Brugere kan også arrangere begivenheder, deltage i diskussioner, og finde nye venner med lignende passioner. Project Gravel sigter mod at fremme sociale forbindelser og fællesskab ved at bringe mennesker sammen omkring deres fælles interesser.",
+    "tags": ["React", "Projects", "Frontend"],
+    "image": "./src/assets/img/project.gravel.png",
+    "links": [
+      { "url": "https://annikahlaursen.github.io", "text": "React Portfolio" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Project Underliv - Informationsplatform om Kvinders menstruationscyklus",
+    "year": 2025,
+    "description": "Dette project har til formål at skabe en omfattende informationsplatform, der fokuserer på kvinders menstruationscyklus. Platformen vil tilbyde videnskabeligt baseret information om menstruation, herunder sundhedstips, cyklussporing, og håndtering af menstruationsrelaterede symptomer. Brugere vil kunne finde artikler, videoer, og ressourcer, der fremmer forståelse og bevidsthed om menstruationssundhed. Project Underliv sigter mod at nedbryde tabuer omkring menstruation og fremme en åben dialog om kvinders sundhed.",
+    "tags": ["React", "Projects", "Frontend"],
+    "image": "./src/assets/img/project.underliv.png",
+    "links": [
+      { "url": "https://annikahlaursen.github.io", "text": "React Portfolio" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Project Zerobuzzbrew - e-handel for Specialøl",
+    "year": 2025,
+    "description": "Formålet med Project Zerobuzzbrew er at skabe en brugervenlig e-handelsplatform, der specialiserer sig i salg af specialøl. Platformen vil tilbyde et bredt udvalg af håndværksøl fra forskellige bryggerier, sammen med detaljerede beskrivelser, anmeldelser, og anbefalinger. Brugere vil kunne oprette konti, foretage sikre betalinger, og spore deres ordrer. Project Zerobuzzbrew sigter mod at give ølentusiaster en bekvem måde at opdage og købe unikke ølprodukter online, samtidig med at det støtter små bryggerier og fremmer ølkultur.",
+    "tags": ["React", "Projects", "Frontend"],
+    "image": "./src/assets/img/project.zerobuzzbrew.png",
+    "links": [
+      { "url": "https://annikahlaursen.github.io", "text": "React Portfolio" }
+    ]
+  }
+]
